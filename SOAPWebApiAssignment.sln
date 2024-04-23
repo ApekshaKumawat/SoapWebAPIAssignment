@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPWebApiAssignment", "SOAPWebApiAssignment\SOAPWebApiAssignment.csproj", "{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456670BB-1807-4D13-AB9B-41BD81847D70}
+	EndGlobalSection
+EndGlobal

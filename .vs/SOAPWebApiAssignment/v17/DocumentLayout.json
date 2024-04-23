@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\service\\operationsimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\service\\operationsimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\service\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\service\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\model\\response\\outputresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\model\\response\\outputresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\model\\request\\inputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\model\\request\\inputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|c:\\users\\apeksha.k_int1592\\source\\repos\\soapwebapiassignment\\soapwebapiassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF23837-2A7D-442A-8E12-49FD4CE34FC7}|SOAPWebApiAssignment\\SOAPWebApiAssignment.csproj|solutionrelative:soapwebapiassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAIAzwKwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:51:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputRequest.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Model\\Request\\InputRequest.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Model\\Request\\InputRequest.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Model\\Request\\InputRequest.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Model\\Request\\InputRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:05:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Controllers\\OperationsController.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Controllers\\OperationsController.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Controllers\\OperationsController.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Controllers\\OperationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:29:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationsImpl.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Service\\OperationsImpl.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Service\\OperationsImpl.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Service\\OperationsImpl.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Service\\OperationsImpl.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:16:36.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputResponse.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Model\\Response\\OutputResponse.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Model\\Response\\OutputResponse.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Model\\Response\\OutputResponse.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Model\\Response\\OutputResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:10:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOperations.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Service\\IOperations.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Service\\IOperations.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Service\\IOperations.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Service\\IOperations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:13:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "SOAPWebApiAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\apeksha.k_int1592\\source\\repos\\SOAPWebApiAssignment\\SOAPWebApiAssignment\\Program.cs",
+              "RelativeToolTip": "SOAPWebApiAssignment\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:53:15.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
